@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="cherie-font" horiz-adv-x="1000" >
+<font-face font-family="cherie-font" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cherie_arrow" unicode="&#xe800;" d="M702 538l175-175 0-1 3-3-178-178-14 15 154 154h-738v21h735l-151 152 14 15z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_arrow_back" unicode="&#xe801;" d="M298 163l-175 174 0 1-3 3 178 178 15-15-155-154h738v-21h-735l152-152-15-14z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_arrow_left" unicode="&#xe802;" d="M247 359l481-481 22 22-464 464 464 464-22 22-486-486 5-5 0 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_arrow_right" unicode="&#xe803;" d="M753 369l-481 481-22-22 464-464-464-464 22-22 486 486-5 5 0 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_chevron" unicode="&#xe804;" d="M375-25l375 375-375 375" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_close" unicode="&#xe805;" d="M479 359l-235 235-30-29 236-236-236-235 30-30 235 236 236-236 29 30-235 235 235 236-29 29-236-235z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_close-big" unicode="&#xe806;" d="M520 353l331-332-22-22-331 331-332-331-22 22 331 332-331 331 22 22 332-331 331 331 22-22-331-331z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_plus" unicode="&#xe807;" d="M500 350v333h-42v-333h-333v-42h333v-333h42v333h333v42h-333z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_search" unicode="&#xe808;" d="M738 142c58 66 95 154 95 250 0 208-166 375-375 375-208 0-375-167-375-375 0-209 167-375 375-375 96 0 184 37 250 96l221-221 29 29-220 221z m-280-84c-183 0-333 150-333 334 0 183 150 333 333 333 184 0 334-150 334-333 0-184-150-334-334-334z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie-short-arrow-left" unicode="&#xe809;" d="M384 550l-30 29-177-177-29-29 29-29 177-177 30 29-154 154h603v42h-607l158 158z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie-short-arrow-right" unicode="&#xe80a;" d="M646 579l-30-29 158-158h-607v-42l603 0-154-154 30-29 206 206 0 0 0 0-206 206z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_arrow_down" unicode="&#xe80b;" d="M103 453l44 44 353-353 353 353 44-44-397-397-397 397z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cherie_arrow_up" unicode="&#xe80c;" d="M897 247l-44-44-353 353-353-353-44 44 397 397 397-397z" horiz-adv-x="1000" />
+
+<glyph glyph-name="minus" unicode="&#xe80d;" d="M938 288l-813 0 0 62 813 0v-62z" horiz-adv-x="1000" />
+
+<glyph glyph-name="dot" unicode="&#xe80e;" d="M110 460q46 0 78-32t32-78q0-44-32-77t-78-33-78 33-32 77q0 46 32 78t78 32z" horiz-adv-x="220" />
+</font>
+</defs>
+</svg>
